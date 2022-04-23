@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "wim"
+    },
+    {
+      "id": 2,
+      "title": "testje",
+      "author": "wim"
+    },
+    {
+      "id": 3,
+      "title": "wietie",
+      "author": "wim"
+    },
+    {
+      "title": "thibault",
+      "author": "wim",
+      "id": 4
+    },
+    {
+      "title": "thibault",
+      "author": "wim",
+      "id": 5
+    },
+    {
+      "title": "thibault",
+      "author": "wim",
+      "id": 6
+    },
+    {
+      "title": "thibault",
+      "author": "wim",
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "title": "thibault",
+      "author": "wim",
+      "id": 9
+    }
+  ]
+}
